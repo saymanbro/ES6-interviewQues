@@ -1,3 +1,5 @@
+// i didn't understand
+
 let bonus = 23;
 
 function sum(num1,num2){
